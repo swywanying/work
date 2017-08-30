@@ -10,6 +10,8 @@
         data:function(){
             return {
 
+                reload:'t',
+                remove
             }
         },
         methods:{
