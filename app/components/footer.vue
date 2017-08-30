@@ -16,7 +16,7 @@
             },
             second(){
                 var sec;
-
+                sec = 2;
             },
             third(){
                 var thi;
