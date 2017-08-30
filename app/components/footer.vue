@@ -11,6 +11,9 @@
             }
         },
         methods:{
+            first(){
+
+            },
         },
         created:function(){
         }
