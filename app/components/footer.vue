@@ -13,6 +13,7 @@
         methods:{
             first(){
                 var fir;
+                fir=1;
             },
             second(){
                 var sec;
