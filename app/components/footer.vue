@@ -18,6 +18,7 @@
                 var sec;
                 sec = 2;
                 sec=3;
+                sec=4;
             },
             third(){
                 var thi;
