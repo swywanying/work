@@ -14,7 +14,10 @@ widget.init(Vue);
 var vm;
 var config = {
     mixins:[mixins.loaded],
-    data:{
+    data:function(){
+        return {
+
+        }
     },
     created:function(){
 

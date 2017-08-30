@@ -10,6 +10,7 @@ var formConfig = {
     rule: {},
     validateResult: {},
     fieldClass: {},
+    field:{}
     //验证规则配置
     // rule:{
     //     test:{
