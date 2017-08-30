@@ -9,11 +9,13 @@
     module.exports = {
         data:function(){
             return {
-
+                reload:'abc'
             }
         },
         methods:{
+            fun(){
 
+            }
         },
         created:function(){
 
