@@ -17,6 +17,9 @@
             second(){
 
             },
+            third(){
+
+            }
         },
         created:function(){
         }
