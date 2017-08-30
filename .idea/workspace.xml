@@ -29,8 +29,13 @@
       <file leaf-file-name="header.vue" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/components/header.vue">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="160">
               <caret line="10" column="28" lean-forward="false" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+=======
+            <state relative-caret-position="240">
+              <caret line="15" column="16" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+>>>>>>> 9425bcb... fixup! abc
               <folding />
             </state>
           </provider>
@@ -39,8 +44,13 @@
       <file leaf-file-name="footer.vue" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/components/footer.vue">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="224">
               <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+=======
+            <state relative-caret-position="144">
+              <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+>>>>>>> 9425bcb... fixup! abc
               <folding />
             </state>
           </provider>
@@ -85,6 +95,10 @@
         <option value="$PROJECT_DIR$/../Init/readme.md" />
         <option value="$PROJECT_DIR$/app/components/footer.vue" />
         <option value="$PROJECT_DIR$/.gitignore" />
+<<<<<<< HEAD
+=======
+        <option value="$PROJECT_DIR$/app/components/footer.vue" />
+>>>>>>> 9425bcb... fixup! abc
         <option value="$PROJECT_DIR$/app/components/header.vue" />
       </list>
     </option>
@@ -190,12 +204,20 @@
       <workItem from="1504074352084" duration="29000" />
       <workItem from="1504074496994" duration="2248000" />
       <workItem from="1504079469458" duration="997000" />
+<<<<<<< HEAD
       <workItem from="1504081400440" duration="61000" />
+=======
+      <workItem from="1504081400440" duration="112000" />
+>>>>>>> 9425bcb... fixup! abc
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="7917000" />
+=======
+    <option name="totallyTimeSpent" value="7968000" />
+>>>>>>> 9425bcb... fixup! abc
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="23" width="1384" height="800" extended-state="0" />
@@ -348,18 +370,30 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
           <caret line="2" column="5" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+=======
+    <entry file="file://$PROJECT_DIR$/app/components/footer.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+>>>>>>> 9425bcb... fixup! abc
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/components/header.vue">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="160">
           <caret line="10" column="28" lean-forward="false" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+=======
+        <state relative-caret-position="240">
+          <caret line="15" column="16" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+>>>>>>> 9425bcb... fixup! abc
           <folding />
         </state>
       </provider>

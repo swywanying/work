@@ -12,7 +12,9 @@
             }
         },
         methods:{
+            fun(){
 
+            }
         },
         created:function(){
 
