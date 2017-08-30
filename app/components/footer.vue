@@ -19,7 +19,7 @@
 
             },
             third(){
-
+                var thi;
             },
             forth(){
                 var a;
