@@ -19,6 +19,9 @@
             },
             third(){
 
+            },
+            forth(){
+
             }
         },
         created:function(){
