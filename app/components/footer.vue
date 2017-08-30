@@ -15,6 +15,7 @@
                 var fir
             },
             second(){
+                var sec;
 
             },
             third(){
