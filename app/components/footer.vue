@@ -12,7 +12,7 @@
         },
         methods:{
             first(){
-
+                var first =1;
             },
             second(){
                 var sec;
