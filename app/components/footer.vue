@@ -17,6 +17,7 @@
             second(){
                 var sec;
                 sec = 2;
+                sec=3;
             },
             third(){
                 var thi;
