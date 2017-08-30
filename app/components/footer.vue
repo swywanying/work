@@ -14,6 +14,9 @@
             first(){
 
             },
+            second(){
+
+            },
         },
         created:function(){
         }
