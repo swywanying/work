@@ -12,7 +12,7 @@
         },
         methods:{
             first(){
-
+                var fir;
             },
             second(){
 
